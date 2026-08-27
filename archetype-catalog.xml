@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-catalog xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd"
+                   xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+                   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <archetypes>
+        <archetype>
+            <groupId>it.galileo.hermes</groupId>
+            <artifactId>delivery-extension-archetype</artifactId>
+            <version>1.0.4</version>
+            <repository>https://gitlab.galileo.test/api/v4/projects/121/packages/maven</repository>
+            <description>Archetype - delivery-extension-archetype</description>
+        </archetype>
+        <archetype>
+            <groupId>it.galileo.hermes</groupId>
+            <artifactId>generic-extension-archetype</artifactId>
+            <version>1.0.0</version>
+            <repository>https://gitlab.galileo.test/api/v4/projects/124/packages/maven</repository>
+            <description>Archetype - generic-extension-archetype</description>
+        </archetype>
+        <archetype>
+            <groupId>it.galileo.hermes</groupId>
+            <artifactId>response-analyzer-extension-archetype</artifactId>
+            <version>1.0.0</version>
+            <repository>https://gitlab.galileo.test/api/v4/projects/125/packages/maven</repository>
+            <description>Archetype - response-analyzer-extension-archetype</description>
+        </archetype>
+    </archetypes>
+</archetype-catalog>
