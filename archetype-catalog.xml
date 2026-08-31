@@ -24,5 +24,12 @@
             <repository>https://gitlab.galileo.test/api/v4/projects/125/packages/maven</repository>
             <description>Archetype - response-analyzer-extension-archetype</description>
         </archetype>
+        <archetype>
+            <groupId>it.galileo.hermes</groupId>
+            <artifactId>output-message-extension-archetype</artifactId>
+            <version>1.0.0</version>
+            <repository>https://gitlab.galileo.test/api/v4/projects/128/packages/maven</repository>
+            <description>Archetype - output-message-extension-archetype</description>
+        </archetype>
     </archetypes>
 </archetype-catalog>
