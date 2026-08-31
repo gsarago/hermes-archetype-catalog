@@ -20,7 +20,7 @@
         <archetype>
             <groupId>it.galileo.hermes</groupId>
             <artifactId>response-analyzer-extension-archetype</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
             <repository>https://gitlab.galileo.test/api/v4/projects/125/packages/maven</repository>
             <description>Archetype - response-analyzer-extension-archetype</description>
         </archetype>
