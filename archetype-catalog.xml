@@ -33,7 +33,7 @@
         </archetype>
         <archetype>
             <groupId>it.galileo.hermes</groupId>
-            <artifactId>hermes-integration-archetype</artifactId>
+            <artifactId>integration-archetype</artifactId>
             <version>1.0.0</version>
             <repository>https://gitlab.galileo.test/api/v4/projects/135/packages/maven</repository>
             <description>Archetype - hermes-integration-archetype</description>
